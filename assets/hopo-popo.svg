@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="109px" height="255px" viewBox="0 0 109 255" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>hopo-popo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile-Portrait" transform="translate(-106.000000, -120.000000)" stroke="#979797" stroke-width="3">
+            <g id="Group-2" transform="translate(121.000000, 138.000000)">
+                <ellipse id="Oval-3" fill="#F8E81C" cx="40" cy="39" rx="29" ry="39"></ellipse>
+                <path d="M41.5,78.7746272 L41.5,93.6726674" id="Path-5"></path>
+                <polyline id="Path-6" points="0.945660151 217.944743 8.18924248 93.5103462 75.1010734 93.5103462 75.9177518 217.944743"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
