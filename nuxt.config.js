@@ -11,11 +11,11 @@ module.exports = {
     ],
     link: [
       { rel: 'stylesheet', media: 'all', href: 'https://cdnjs.cloudflare.com/ajax/libs/bulma/0.4.3/css/bulma.min.css' },
-      { rel: 'stylesheet', media: 'all', href: '/fullpage.css' },
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'stylesheet', media: 'all', href: 'fullpage.css' },
+      { rel: 'icon', type: 'image/x-icon', href: 'favicon.ico' }
     ],
     script: [
-      { type: 'text/javascript', src: '/fullpage.min.js' },
+      { type: 'text/javascript', src: 'fullpage.min.js' },
       { type: 'text/javascript', src: 'https://unpkg.com/scrollreveal/dist/scrollreveal.min.js' }
     ]
   },
@@ -39,6 +39,7 @@ module.exports = {
           exclude: /(node_modules)/
         })
       }
-    }
+    },
+    publicPath: '_nuxt/'
   }
 }
