@@ -29,8 +29,7 @@
 
 <script>
   export default {
-    components: {
-    },
+    components: {},
     data: function () {
       return {}
     },
@@ -92,23 +91,24 @@
   }
 </script>
 
-<style>
+<style lang="scss" rel="stylesheet/scss">
   .container {
     min-height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
   }
-
   .title {
-    font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* 1 */
-    display: block;
+    font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    /* 1 */
+    display:block;
     font-weight: 300;
     font-size: 100px;
     color: #35495e;
     letter-spacing: 1px;
   }
+
   @media (max-width: 600px) {
     .title {
       font-size: 50px;
