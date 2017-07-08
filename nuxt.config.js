@@ -39,7 +39,9 @@ module.exports = {
           exclude: /(node_modules)/
         })
       }
-    },
-    publicPath: '_nuxt/'
+    }
+  },
+  router: {
+    base: '/hug-bug/'
   }
 }
