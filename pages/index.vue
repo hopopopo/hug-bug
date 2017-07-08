@@ -109,5 +109,10 @@
     color: #35495e;
     letter-spacing: 1px;
   }
+  @media (max-width: 600px) {
+    .title {
+      font-size: 50px;
+    }
+  }
 
 </style>
