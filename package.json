@@ -5,7 +5,9 @@
   "author": "Kasperi Viitasalo",
   "private": true,
   "dependencies": {
+    "node-sass": "^4.5.3",
     "nuxt": "latest",
+    "sass-loader": "^6.0.6",
     "scrollreveal": "^3.3.6"
   },
   "scripts": {
