@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="178px" height="357px" viewBox="0 0 178 357" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>alus</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile-Portrait" transform="translate(-70.000000, -467.000000)" stroke="#979797">
+            <g id="Group" transform="translate(88.000000, 489.000000)">
+                <path d="M12.7192351,317.776633 C12.7192351,259.380941 1.58006022,92.9002915 1.58006022,92.9002915 C1.58006022,92.9002915 91.5286545,97.8677614 130.612882,97.8677614 C192.723251,199.722745 44.4372343,248.431142 12.7192351,317.776633 Z" id="Path" fill="#4990E2"></path>
+                <path d="M1,89.923147 C1,89.923147 -0.71263219,1.5517703 65,1.5517703 C130.712632,1.5517703 130.712632,97.6535596 130.712632,97.6535596 L1,89.923147 Z" id="Path-2" transform="translate(65.854214, 49.602665) rotate(-1.000000) translate(-65.854214, -49.602665) "></path>
+                <circle id="Oval" fill="#4990E2" cx="103.5" cy="54.5" r="11.5"></circle>
+                <ellipse id="Oval-2" fill="#F8E81C" cx="52" cy="49" rx="6" ry="10"></ellipse>
+                <path d="M53.0312986,59.5557102 L52.8725217,64.5004752" id="Path-3"></path>
+                <polyline id="Path-4" points="44.7541097 89.0125981 44.7541097 64.0808507 62.6486398 63.5950691 62.4407177 87.9011601"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
